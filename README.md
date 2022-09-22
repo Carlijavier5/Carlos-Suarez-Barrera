@@ -7,16 +7,16 @@ https://drive.google.com/file/d/1VRs_51CFb_uQiokugc19chyH1SGuu41C/view?usp=shari
 
 In-Game Screenshots:
 
-![Screenshot 1](_screenshots/Screenshot (1).png)
+<img src="_screenshots/Screenshot (1).png" alt="Screenshot 1">
 
-![Screenshot 2](_screenshots/Screenshot (2).png)
+<img src="_screenshots/Screenshot (2).png" alt="Screenshot 2">
 
-![Screenshot 3](_screenshots/Screenshot (3).png)
+<img src="_screenshots/Screenshot (3).png" alt="Screenshot 3">
 
-![Screenshot 4](_screenshots/Screenshot (4).png)
+<img src="_screenshots/Screenshot (4).png" alt="Screenshot 4">
 
-![Screenshot 5](_screenshots/Screenshot (5).png)
+<img src="_screenshots/Screenshot (5).png" alt="Screenshot 5">
 
-![Screenshot 6](_screenshots/Screenshot (6).png)
+<img src="_screenshots/Screenshot (6).png" alt="Screenshot 6">
 
-![Screenshot 7](_screenshots/Screenshot (7).png)
+<img src="_screenshots/Screenshot (7).png" alt="Screenshot 7">
