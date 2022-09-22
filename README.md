@@ -1,4 +1,4 @@
-# Carlos-Suarez-Barrera
+# About Me
 Hi there! I'm a First-Year Georgia Tech Student, Candidate for a Bachelor of Science in Computer Science by 2026.
 
 # Project Protocol
